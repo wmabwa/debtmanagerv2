@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">DebtManagerV2</string>
+    <string name="facebook_app_id">5462759693796293</string>
+    <string name="fb_login_protocol_scheme">fb5462759693796293</string>
+</resources>
+

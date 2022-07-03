@@ -1,0 +1,126 @@
+{
+  "buildCommand": "prepareForIndexing",
+  "configuredTargets": [
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b758cc842172da540ffb591e63e38dc1e"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bc184ad8b3c49a0c098ef639132f1afe4"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b828dc99e68108e01848c924cebb9b2d5"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b3a79ed5818b538b1f9579846abc3a569"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b51e8fd886951a87551ea0aff618ed4ec"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bd57b8bce60a0f11113f4cff532db68d3"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bb762d5de103fb6cfc7506aa6be1d4f33"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9ba408a4c1f668e62161cdeba76f57d50c"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bd367f2c9826e0c44989d081ca3d0f4ca"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bc075cc473fa5680b867d51f1363214ff"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b9da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b0be6c76e7b3dde057d7e3e6ad61f30d4"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bdd3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bd3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b9b0ee9a6d93c0cfa024bbc34a88b2122"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bf10882e1684b8a3dfdec597bc0a47af3"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bcb446d83a55866e5ca0338d00b7158fb"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b9840e8244cb75f43b3efe8cd6dec5ec5"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b3788d8769c821650606514be955fca93"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b7f74324bfc5c78140e34d510e26e00c1"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b9f8e96321e2ec1358015405d1bd9b50d"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bd7de55694c750fe04d3bc1517f91a481"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9bfdca3e568c0d4fe17f0e20bbe764df0d"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b6836e78755c7a49cbac94d6710bb39cc"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b671562e4ed65058aaf768db4317c7397"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b812cb744006e837a06a1ec7fcf8ca389"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9b0062393f91a1d2d94e3e5ed3a5aa5da9"
+    },
+    {
+      "guid": "9b796dfa5dc54993f522d4b13914ed9be8cd2c510461aaa30819666e6706f51b"
+    }
+  ],
+  "continueBuildingAfterErrors": true,
+  "enableIndexBuildArena": false,
+  "hideShellScriptEnvironment": false,
+  "parameters": {
+    "action": "build",
+    "arenaInfo": {
+      "buildIntermediatesPath": "",
+      "buildProductsPath": "",
+      "derivedDataPath": "/Users/wycliffemabwa/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath": "/Users/wycliffemabwa/Library/Developer/Xcode/DerivedData/Pods-enkipurlesqkrrhdcpshvvzjythj/Index/DataStore",
+      "indexEnableDataStore": true,
+      "indexPCHPath": "/Users/wycliffemabwa/Library/Developer/Xcode/DerivedData/Pods-enkipurlesqkrrhdcpshvvzjythj/Index/PrecompiledHeaders",
+      "pchPath": ""
+    },
+    "configurationName": "Release",
+    "overrides": {
+      "synthesized": {
+        "table": {
+          "ENABLE_PREVIEWS": "NO"
+        }
+      }
+    }
+  },
+  "qos": "default",
+  "schemeCommand": "launch",
+  "shouldCollectMetrics": false,
+  "showNonLoggedProgress": true,
+  "useDryRun": true,
+  "useImplicitDependencies": false,
+  "useLegacyBuildLocations": false,
+  "useParallelTargets": false
+}

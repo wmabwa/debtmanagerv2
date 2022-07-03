@@ -1,0 +1,103 @@
+Target dependency graph (30 targets)
+AppAuth in Pods
+BoringSSL-GRPC in Pods
+FBSDKCoreKit-FacebookSDKStrings in Pods
+FBSDKCoreKit in Pods, depends on:
+FBSDKCoreKit-FacebookSDKStrings in Pods (explicit)
+FBSDKLoginKit in Pods, depends on:
+FBSDKCoreKit in Pods (explicit)
+PromisesObjC in Pods
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GTMSessionFetcher in Pods
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+abseil in Pods
+gRPC-C++-gRPCCertificates-Cpp in Pods
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+Flutter in Pods
+GTMAppAuth in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleSignIn in Pods, depends on:
+AppAuth in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+firebase_core in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+cloud_firestore in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+firebase_auth in Pods, depends on:
+Firebase in Pods (explicit)
+Flutter in Pods (explicit)
+firebase_core in Pods (explicit)
+flutter_login_facebook in Pods, depends on:
+FBSDKLoginKit in Pods (explicit)
+Flutter in Pods (explicit)
+google_sign_in in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+url_launcher in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+AppAuth in Pods (explicit)
+BoringSSL-GRPC in Pods (explicit)
+FBSDKCoreKit in Pods (explicit)
+FBSDKLoginKit in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+Flutter in Pods (explicit)
+GTMAppAuth in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleSignIn in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+abseil in Pods (explicit)
+cloud_firestore in Pods (explicit)
+firebase_auth in Pods (explicit)
+firebase_core in Pods (explicit)
+flutter_login_facebook in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+google_sign_in in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+url_launcher in Pods (explicit)
